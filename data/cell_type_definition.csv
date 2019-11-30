@@ -1,0 +1,6 @@
+Path,cell_type,
+,Tumor Cells,Ki67
+other,immune cells,CD45
+immune cells,T cells,CD3
+T cells,Cytotoxic,CD8a
+T cells,Reg,FOXP3
